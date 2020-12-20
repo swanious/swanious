@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Suwan!
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=swanious)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **swanious/swanious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
