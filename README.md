@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Suwan!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swanious&count_private=true&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swanious&count_private=true&show_icons=true&theme=shades-of-purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swanious&langs_count=3&hide=vue,css,html,java,objective-c&layout=compact&theme=dark)](https://github.com/swanious)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swanious&langs_count=3&hide=vue,css,html,java,objective-c&layout=compact&theme=shades-of-purple)](https://github.com/swanious)
 
 
 <!--
