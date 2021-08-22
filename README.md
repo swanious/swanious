@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=transparent&color=F7DF1E&height=200&section=header&text=SuwanOh&fontSize=60&fontAlign=50&fontAlignY=55&desc=FrontEnd%20Developer&descAlignY=30&descAlign=40&descSize=20&fontColor=e2e3e6)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=F7DF1E&height=150&section=header&text=SuwanOh&fontSize=60&fontAlign=50&fontAlignY=65&desc=FrontEnd%20Developer&descAlignY=30&descAlign=40&descSize=20&fontColor=e2e3e6)
 
 ### 🛠 Front-end Tech Stack
   
@@ -18,9 +18,9 @@
 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swanious&count_private=true&show_icons=true&theme=shades-of-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swanious&count_private=true&show_icons=true&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swanious&langs_count=3&hide=vue,css,html,java,objective-c&layout=compact&theme=shades-of-purple)](https://github.com/swanious)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swanious&langs_count=3&hide=vue,css,html,java,objective-c&layout=compact&theme=react)](https://github.com/swanious)
  
 </div>
 
