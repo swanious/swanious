@@ -1,9 +1,8 @@
 <div align=center>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F7DF1E&height=250&section=header&text=SuwanOh&fontSize=60&fontAlign=40&fontAlignY=35&desc=FrontEnd%20Developer&descAlignY=50&descAlign=60&descSize=25)
-### Front-end Tech Stack
-  
-<hr />
+
+### 🛠 Front-end Tech Stack
   
 <a href="" target="_blank"><img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
@@ -17,17 +16,12 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Sqlite-003B57?style=flat-square&logo=Sqlite&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>
 
-### Contact Me
-<a href="mailto:ohsuwan1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://velog.io/@swanious" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<br />
 
-<hr />
-  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swanious&count_private=true&show_icons=true&theme=shades-of-purple)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swanious&langs_count=3&hide=vue,css,html,java,objective-c&layout=compact&theme=shades-of-purple)](https://github.com/swanious)
  
-
 </div>
 
 <!--
