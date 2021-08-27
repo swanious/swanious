@@ -10,7 +10,8 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a><br />
 <a href="" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?&logo=React&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/React_native-0175C2?style=flat-square&logo=react&logoColor=white"/></a><br />
+<a href="" target="_blank"><img src="https://img.shields.io/badge/React_native-0175C2?style=flat-square&logo=react&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/NestJs-e0234e?style=flat-square&logo=NestJs&logoColor=white"/></a><br />
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Sqlite-003B57?style=flat-square&logo=Sqlite&logoColor=white"/></a>
