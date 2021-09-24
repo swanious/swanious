@@ -1,6 +1,4 @@
 <div align=center>
-  
-![header](https://capsule-render.vercel.app/api?type=transparent&color=F7DF1E&height=150&section=header&text=SuwanOh&fontSize=60&fontAlign=50&fontAlignY=65&fontColor=e2e3e6)
 
 ### 🛠 Front-end Tech Stack
   
