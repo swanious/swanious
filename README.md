@@ -1,5 +1,11 @@
-<div align=center>
+<div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swanious&count_private=true&show_icons=true&theme=react)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swanious&langs_count=3&hide=vue,css,html,java,objective-c&layout=compact&theme=react)](https://github.com/swanious)
+  
+<br />
+  
 ### 🛠 Front-end Tech Stack
   
 <a href="" target="_blank"><img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
@@ -15,12 +21,7 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Sqlite-003B57?style=flat-square&logo=Sqlite&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>
 
-<br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swanious&count_private=true&show_icons=true&theme=react)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swanious&langs_count=3&hide=vue,css,html,java,objective-c&layout=compact&theme=react)](https://github.com/swanious)
- 
 </div>
 
 <!--
